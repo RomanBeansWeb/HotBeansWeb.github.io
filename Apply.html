@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" type="text/css" href="Apply.css">
+    </head>
+    <body>
+        <header class="header">
+            <img class="Logo" src="coffee-beans.png"/>
+            <a class="Apple" href="Apply.html"><b>Apply</b></a>
+            <a class="Apple2" href="AboutUs.html"><b>About us</b></a>
+            <a class="Apple3" href="Courses.html"><b>Courses</b></a>
+            <a class="Apple4" href="TheTeam.html"><b>The Team</b></a>
+            <a class="Apple5" href="Requirements.html"><b>Requirements</b></a>
+            <a class="TopText" href="Homepage.html" ><b>Hot Beans Web</b></a>
+        </header>
+        <p class="NormalMessage">Application Form:</p>
+        <div class="Application">
+            <label class="Firstname1" for="Firstname">Firstname:<input type="text" class="Firstname" name="Firstname" placeholder="Muhammad"></label>
+            <label class="Lastname1" for="Lastname">Lastname:<input type="text" class="Lastname" name="Lastname" placeholder="Wang"></label>
+            <label class="Email1" for="Email">Email:<input type="text" class="Email" name="Email" placeholder="Placeholder@gmail.com"></label>
+            <label class="Phone1" for="Phone">Phone:<input type="text" class="Phone" name="Phone" placeholder="00000000000"></label>
+            <p class="CV_Message">Attach your CV below (Preferably in PNG or JPG):</p>
+            <input class="CV" type="file" id="myFile" name="filename">
+            <p class="GenderMessage">Select your gender:</p>
+            <select class="Gender" name="Gender" id="myGender">
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other(Disabled)">Other(Disabled)</option>
+            </select> 
+            <button class="Apply" onclick="Clicked()">Apply</button>
+            <p class="Clicked" id="Test"></p>
+                <script>
+                function Clicked() {
+                    document.getElementById("Test").innerHTML = "Application Submitted";
+                }
+                </script>
+        </div>
+        <footer class="footer">
+            <a href="https://www.facebook.com/"><img class="Facebook" src="facebook (1).png"/></a>
+            <a href="https://www.instagram.com/"><img class="Instagram" src="instagram.png"/></a>
+            <a href="https://twitter.com/"><img class="Twitter" src="twitter.png"/></a>
+        </footer>
+    </body>
+</html>

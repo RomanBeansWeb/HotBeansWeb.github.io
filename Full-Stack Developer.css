@@ -1,0 +1,187 @@
+body{
+    height: 953px;
+    width: 1670px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.header{
+    display: block; 
+    background-color:#B0AEA5;
+    color: black;
+    position: absolute;
+    width: 1770px;
+    block-size: 67px;
+    padding: 45px 0;
+    padding-left: 150px;
+    font-size: 50px;
+    /* margin: 0px; */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Logo{
+    position: absolute;
+    margin-left: -125px;
+    margin-top: -23.5px;
+    height: 94px;
+    width: 94px;
+    color: black;
+}
+
+.TopText{
+    position: absolute;
+    margin-top: 0px;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.TopText:hover{
+    color:rgb(90, 90, 90);
+}
+
+.Apple{
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 7px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.Apple:hover{
+    color:rgb(90, 90, 90);
+}
+
+.Apple2{
+    position: absolute;
+    margin-left: 670px;
+    margin-top: 7px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.Apple2:hover{
+    color:rgb(90, 90, 90);
+}
+
+.Apple3{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 7px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.Apple3:hover{
+    color:rgb(90, 90, 90);
+}
+
+.Apple4{
+    position: absolute;
+    margin-left: 1111px;
+    margin-top: 7px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.Apple4:hover{
+    color:rgb(90, 90, 90);
+}
+
+.Apple5{
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: 7px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.Apple5:hover{
+    color:rgb(90, 90, 90);
+}
+
+.HeadMessage1{
+    display: block;
+    color: black;
+    position: absolute;
+    width: 80%;
+    margin-top: 180px;
+    margin-left: 40px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.SubMessage1{
+    display: block;
+    color: black;
+    position: absolute;
+    width: 110%;
+    margin-top: 250px;
+    margin-left: 40px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.SubMessage2{
+    display: block;
+    color: black;
+    position: absolute;
+    width: 110%;
+    margin-top: 475px;
+    margin-left: 1040px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Salary3{
+    display: block;
+    color: black;
+    position: absolute;
+    width: 50%;
+    margin-top: 270px;
+    margin-left: 1040px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ComputerImage{
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 80%;
+}
+
+.BottomText{
+    display: block; 
+    color: black;
+    position: absolute;
+    padding: 50px 0;
+    padding-left: 850px;
+    font-size: 50px;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom: 0;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    background-color:#B0AEA5;
+    padding: 10px;
+    width: 1900px;
+    height: 140px;
+    /* margin-bottom: -10px; */
+}
