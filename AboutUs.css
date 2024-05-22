@@ -48,7 +48,7 @@ body{
     color:rgb(90, 90, 90);
 }
 
-.Apple{
+.Apply{
     position: absolute;
     margin-left: 480px;
     margin-top: 7px;
@@ -58,11 +58,11 @@ body{
     color: black;
 }
 
-.Apple:hover{
+.Apply:hover{
     color:rgb(90, 90, 90);
 }
 
-.Apple2{
+.AboutUs{
     position: absolute;
     margin-left: 670px;
     margin-top: 7px;
@@ -72,11 +72,11 @@ body{
     color: black;
 }
 
-.Apple2:hover{
+.AboutUs:hover{
     color:rgb(90, 90, 90);
 }
 
-.Apple3{
+.Courses{
     position: absolute;
     margin-left: 900px;
     margin-top: 7px;
@@ -86,11 +86,11 @@ body{
     color: black;
 }
 
-.Apple3:hover{
+.Courses:hover{
     color:rgb(90, 90, 90);
 }
 
-.Apple4{
+.TheTeam{
     position: absolute;
     margin-left: 1111px;
     margin-top: 7px;
@@ -100,11 +100,11 @@ body{
     color: black;
 }
 
-.Apple4:hover{
+.TheTeam:hover{
     color:rgb(90, 90, 90);
 }
 
-.Apple5{
+.Requirements{
     position: absolute;
     margin-left: 1350px;
     margin-top: 7px;
@@ -114,7 +114,7 @@ body{
     color: black;
 }
 
-.Apple5:hover{
+.Requirements:hover{
     color:rgb(90, 90, 90);
 }
 
