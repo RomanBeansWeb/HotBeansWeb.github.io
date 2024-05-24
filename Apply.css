@@ -146,16 +146,15 @@ body{
     margin-left: 33px;
 }
 
-.Gender{
-    margin-left: 28px;
-}
-
 .CV{
     margin-left: 61px;
 }
 
 .Job{
-    margin-left: 21px;
+    color: black;
+    position: absolute;
+    margin-top: 393px;
+    margin-left: 451px;
 }
 
 .Firstname1{
@@ -186,11 +185,11 @@ body{
     margin-left: 351px;
 }
 
-.Job1{
+.JobMessage{
     color: black;
     position: absolute;
     margin-top: 390px;
-    margin-left: 351px;
+    margin-left: 300px;
 }
 
 .Gender{
