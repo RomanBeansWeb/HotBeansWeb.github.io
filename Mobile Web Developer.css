@@ -118,7 +118,7 @@ body{
     display: block;
     color: black;
     position: absolute;
-    width: 80%;
+    width: 82%;
     margin-top: 180px;
     margin-left: 40px;
     font-size: 35px;
@@ -136,12 +136,23 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.SubMessage2{
+    display: block;
+    color: black;
+    position: absolute;
+    width: 112%;
+    margin-top: 416px;
+    margin-left: 990px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .Salary5{
     display: block;
     color: black;
     position: absolute;
     width: 50%;
-    margin-top: 320px;
+    margin-top: 250px;
     margin-left: 1180px;
     font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
